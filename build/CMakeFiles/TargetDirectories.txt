@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/lru-cache/build/CMakeFiles/lru-cache.dir
+/home/ubuntu/cpp-generator/workspace/lru-cache/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/lru-cache/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/lru-cache/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/lru-cache/build/CMakeFiles/rebuild_cache.dir
